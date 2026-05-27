@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspalidate",
+        "uuid": 11221020,
+        "checksum": "gdhron"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
